@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Usama-Memon.
 - 👀 I’m interested in Web & Mob App Development.
-- 🌱 I’m currently learning Web & Mpb App Development from SMIT.
+- 🌱 I’m currently learning Web & Mob App Development from SMIT.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me https://wa.me/+923352211400
 - 😄 Pronouns: Usama
